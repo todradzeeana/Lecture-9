@@ -1,0 +1,90 @@
+header {
+  display: inline-block;
+}
+.logo {
+  width: 33px;
+  height: 42px;
+  display: inline-block;
+  margin-top: 33px;
+  margin-left: 99px;
+}
+nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+li {
+  display: inline-block;
+  margin-right: 50px;
+  margin-top: 30px;
+}
+.bop {
+  margin-left: 808px;
+}
+li a {
+  display: inline-block;
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.xedi {
+  width: 100%;
+  height: 100%;
+}
+.image-text-div {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  position: relative;
+  margin-top: 84px;
+}
+h2 {
+  color: #ffffff;
+  font-size: 79px;
+  font-family: Helvetica;
+  font-weight: 700;
+  word-wrap: break-word;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container {
+  width: 700px;
+  height: 750px;
+  background-color: white;
+  display: inline-block;
+}
+.ani {
+  color: #636060;
+  font-size: 17px;
+  font-family: Helvetica;
+  font-weight: 400;
+  word-wrap: break-word;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.anii {
+  color: #010101;
+  font-size: 28px;
+  font-family: Helvetica;
+  font-weight: 400;
+  word-wrap: break-word;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.aniii {
+  color: #636060;
+  font-size: 20px;
+  font-family: Helvetica;
+  font-weight: 400;
+  word-wrap: break-word;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.pirveli {
+  width: 50 px;
+  height: 50 px;
+}
