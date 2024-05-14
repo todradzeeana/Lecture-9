@@ -83,14 +83,52 @@ h2 {
   word-wrap: break-word;
   margin-left: 100px;
   margin-top: 20px;
+  display: inline-block;
+  margin-top: 80px;
+  width: 300px;
+  display: inline-block;
 }
-.pirveli {
-  width: 50 px;
-  height: 50 px;
-}
+
 // We hope you can visit and enjoy it<br/>ths beautiful places with your <br/>friend and favorite people
 color: #636060;
 font-size: 18px;
 font-family: Helvetica;
 font-weight: 400;
 word-wrap: break-word;
+
+.div2 {
+  width: 700px;
+  display: inline-flex;
+  align-items: top;
+  flex-wrap: wrap;
+  padding: 23px;
+}
+.div3 {
+  display: flex;
+  justify-content: flex end;
+}
+.div4 {
+  display: flex;
+  justify-content: flex end;
+}
+.smallbox {
+  padding: 33px;
+}
+.didi {
+  color: #343232;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 25px;
+}
+.patara {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 9px;
+}
